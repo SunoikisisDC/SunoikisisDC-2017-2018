@@ -3,4 +3,4 @@
 
 ***
 ### SunoikisisDC 2017-2018 Courses (Fall 2017 and Spring 2018)
-* Coming soon
+* [SunoikisisDC 2017-2018 Wiki](https://github.com/SunoikisisDC/SunoikisisDC-2017-2018/wiki)

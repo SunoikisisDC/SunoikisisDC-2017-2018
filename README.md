@@ -7,7 +7,9 @@
 
 ***
 ### Other Activities
-* The [National Endowment for the Humanities (NEH)](https://www.neh.gov/) has granted us support for a SunoikisisDC two-weeks intensive Institute for Advanced Topics in the Digital Humanities, that will be held at Tufts University on July 16-27, 2018. See the [NEH grant announcement](http://www.neh.gov/files/press-release/neh_grants_august_2017_final_.pdf?utm_medium=email&utm_source=govdelivery).
+* The [National Endowment for the Humanities (NEH)](https://www.neh.gov/) has granted us support for a SunoikisisDC two-weeks intensive Institute for Advanced Topics in the Digital Humanities, that will be held at Tufts University on July 16-27, 2018. See the [NEH grant announcement](http://www.neh.gov/files/press-release/neh_grants_august_2017_final_.pdf?utm_medium=email&utm_source=govdelivery):
+[Digital Editions, Digital Corpora and New Possibilities for the Humanities in the Academy and Beyond - A NEH Institute for Advanced Topics in the Digital Humanities, July 16 – 27, 2018, Tufts University,  Medford, MA](https://sites.tufts.edu/digitaleditions/)
+
 More information on the CFP coming soon!
 
 ***

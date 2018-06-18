@@ -15,4 +15,4 @@
 
 ***
 ### Student Projects
-* [Flor Herrero (Granada), Elizabeth Lewis (UCL), Katherine Shields (UCL) et al., *Presentation and discussion of Sunoikisis Digital Classics student projects*, Digital Classicist Seminar London, July 13, 2018](http://www.digitalclassicist.org/wip/wip2018.html)
+* [Flor Herrero (Granada), Elizabeth Lewis (UCL), Katherine Shields (UCL) et al., *Presentation and discussion of Sunoikisis Digital Classics student projects*, Digital Classicist Seminar London, Institute of Classical Studies, July 13, 2018](http://www.digitalclassicist.org/wip/wip2018.html)

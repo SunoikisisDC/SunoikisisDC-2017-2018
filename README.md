@@ -12,3 +12,7 @@
 ***
 ### Related Activities
 * [*From Classical Text to Cybertext*: the 50th anniversary of the Ancient Greek Course in Araraquara - XXVIII Week of Classical Studies Special Edition, Oct. 2017 - School of Humanities and Sciences UNESP Araraquara](https://www.classicas-digitais.com)
+
+***
+### Student Projects
+* [Flor Herrero (Granada), Elizabeth Lewis (UCL), Katherine Shields (UCL) et al., *Presentation and discussion of Sunoikisis Digital Classics student projects*, Digital Classicist Seminar London, July 13, 2018](http://www.digitalclassicist.org/wip/wip2018.html)

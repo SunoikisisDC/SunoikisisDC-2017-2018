@@ -16,3 +16,8 @@
 ***
 ### Student Projects
 * [Flor Herrero (Granada), Elizabeth Lewis (UCL), Katherine Shields (UCL) et al., *Presentation and discussion of Sunoikisis Digital Classics student projects*, Digital Classicist Seminar London, Institute of Classical Studies, July 13, 2018](http://www.digitalclassicist.org/wip/wip2018.html)
+
+***
+#### License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Contents of the SunoikisisDC Consortium are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

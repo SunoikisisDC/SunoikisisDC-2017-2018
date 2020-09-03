@@ -4,6 +4,9 @@
 ***
 ### SunoikisisDC 2017-2018 Courses (Fall 2017 and Spring 2018)
 * [SunoikisisDC 2017-2018 Wiki](https://github.com/SunoikisisDC/SunoikisisDC-2017-2018/wiki) (syllabi and class outlines)
+  * [Fall 2017: Sunoikisis DCH](https://github.com/SunoikisisDC/SunoikisisDC-2017-2018/wiki/Fall-2017:-DCH) (chaired by Gabriel Bodard, Tom Elliott, and Rada Varga)
+  * [Fall 2017: Tufts Digital Classics Club](https://github.com/ChiaraPalladino/TuftsDCC/wiki) (chaired by Chiara Palladino)
+  * [Spring - Summer 2018: Sunoikisis Digital Classics](https://github.com/SunoikisisDC/SunoikisisDC-2017-2018/wiki/Spring-Summer-2018:-Sunoikisis-Digital-Classics) (chaired by Monica Berti, Gabriel Bodard, and Gregory R. Crane)
 
 ***
 ### Other Activities
